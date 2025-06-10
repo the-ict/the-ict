@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Salom! Men [Ismingiz]
 
-<!--
-**the-ict/the-ict** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Men web dasturchiman va zamonaviy texnologiyalar bilan ishlashni yaxshi ko‘raman. Ayniqsa, server va foydalanuvchi tomonida mustahkam yechimlar yaratishga qiziqaman.
 
-Here are some ideas to get you started:
+## 💻 Texnologiyalar:
+- 🟢 Node.js, Express.js
+- 🍃 MongoDB (Mongoose bilan)
+- 🟦 TypeScript
+- 🎨 Tailwind CSS
+- 🌐 HTML, CSS, JavaScript
+- 🛠️ Git, GitHub, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Statistika:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight)
+
+## 📫 Aloqa:
+- Email: your.email@example.com
+- Telegram: [@username](https://t.me/username)
+- Portfolio: [yourwebsite.com](https://yourwebsite.com)
+
+---
+
+✨ Men ochiq kodli loyihalarda ishlashni va yangi narsalarni o‘rganishni yaxshi ko‘raman. Yangi g‘oyalar va hamkorliklarga doim ochiqman!
