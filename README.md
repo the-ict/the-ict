@@ -11,7 +11,7 @@ Men web dasturchiman va zamonaviy texnologiyalar bilan ishlashni yaxshi ko‘ram
 - 🛠️ Git, GitHub, VS Code
 
 ## 📊 Statistika:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=the-ict&show_icons=true&theme=tokyonight)
 
 ## 📫 Aloqa:
 - Email: your.email@example.com
