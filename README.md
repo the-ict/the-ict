@@ -1,6 +1,6 @@
 # 👋 Salom! Men [Ismingiz]
 
-Men web dasturchiman va zamonaviy texnologiyalar bilan ishlashni yaxshi ko‘raman. Ayniqsa, server va foydalanuvchi tomonida mustahkam yechimlar yaratishga qiziqaman.
+Men zamonaviy web texnologiyalar bilan ishlaydigan dasturchiman. Backend va frontendda ishonchli, tez va qulay ilovalar yaratishga qiziqaman. Har doim yangiliklarga ochiqman va doimiy o‘sishga intilaman.
 
 ## 💻 Texnologiyalar:
 - 🟢 Node.js, Express.js
@@ -14,9 +14,8 @@ Men web dasturchiman va zamonaviy texnologiyalar bilan ishlashni yaxshi ko‘ram
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=the-ict&show_icons=true&theme=tokyonight)
 
 ## 📫 Aloqa:
-- Email: your.email@example.com
-- Telegram: [@username](https://t.me/username)
-- Portfolio: [yourwebsite.com](https://yourwebsite.com)
+- Email: dvltinv@gmail.com
+- Telegram: [@the-ict](https://t.me/the-ict)
 
 ---
 
