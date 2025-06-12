@@ -1,4 +1,4 @@
-# 👋 Salom! Men [Davlatjon]
+# 👋 Salom! Men Davlatjon
 
 Men zamonaviy web texnologiyalar bilan ishlaydigan dasturchiman. Backend va frontendda ishonchli, tez va qulay ilovalar yaratishga qiziqaman. Har doim yangiliklarga ochiqman va doimiy o‘sishga intilaman.
 
