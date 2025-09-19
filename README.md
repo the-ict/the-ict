@@ -1,31 +1,42 @@
-# 👋 Hi there, I'm Davlatjon!
+# 👋 Hi, I'm Davlatjon (Davlatbek)
 
-I'm a passionate full-stack web developer focused on building reliable, fast, and user-friendly applications using modern technologies. I enjoy working on both backend and frontend, always open to learning new things and growing as a developer.
+🚀 **Full-Stack JavaScript Developer** | React, Next.js, Node.js, MongoDB  
+💡 Passionate about building **modern, scalable, and user-friendly web applications**
 
 ---
 
 ## 💻 Tech Stack
 
-- 🟢 **Node.js**, **Express.js**  
-- 🍃 **MongoDB** with Mongoose  
-- 🟦 **TypeScript**  
-- 🎨 **Tailwind CSS**  
-- 🌐 **HTML**, **CSS**, **JavaScript**  
-- 🛠️ **Git**, **GitHub**, **VS Code**
+- **Frontend:** React, Next.js, React Native, Tailwind CSS, TypeScript  
+- **Backend:** Node.js, Express.js  
+- **Database:** MongoDB, Mongoose  
+- **Other Tools:** Git, GitHub, REST APIs, VS Code  
+
+---
+
+## 📂 Featured Projects
+
+- 🎬 **Movie Streaming App (CRUD + Auth)** – Full-stack project with React, Express, and MongoDB  
+- 📥 **Downloader App (React Native)** – Cross-platform mobile application  
+- 🌦 **Weather Forecast App** – React project with i18n (Uzbek, English, Russian) support  
+
+👉 More projects available on my [GitHub Repositories](https://github.com/the-ict)
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=the-ict&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=the-ict&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=the-ict&layout=compact&theme=tokyonight)
 
 ---
 
-## 📫 Get in Touch
+## 📫 Let's Connect
 
-- 📧 **Email**: dvltinv@gmail.com  
-- 💬 **Telegram**: [@the-ict](https://t.me/the-ict)
+- 📧 **Email:** dvltinv@gmail.com  
+- 💬 **Telegram:** [@the-ict](https://t.me/the-ict)  
+- 🌍 **Portfolio:** *Coming Soon...*  
 
 ---
 
-✨ I'm always open to contributing to open-source projects, learning new technologies, and collaborating on exciting ideas. Let's build something awesome together!
+✨ Always open to collaboration, open-source contributions, and exciting freelance projects. Let’s build something awesome together!
