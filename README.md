@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Davlatjon (Davlatbek)
+# 👋 Hi, I'm Davlatjon
 
 🚀 **Full-Stack JavaScript Developer** | React, Next.js, Node.js, MongoDB  
 💡 Passionate about building **modern, scalable, and user-friendly web applications**
