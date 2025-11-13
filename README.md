@@ -1,9 +1,9 @@
 ## 💻 Tech Stack
 
 - **Frontend:** React, Next.js, React Native, Tailwind CSS, TypeScript  
-- **Backend:** Node.js, Express.js  
-- **Database:** MongoDB, Mongoose  
-- **Other Tools:** Git, GitHub, REST APIs, VS Code  
+- **Backend:** Node.js, Express.js, OAuth, Prisma ORM.
+- **Database:** MongoDB, PostgreSql
+- **Dev Ops:** Git, GitHub, Docker, Github Actions, Github Ci/Cd,  
 
 ---
 
@@ -17,4 +17,3 @@
 
 - 📧 **Email:** dvltinv@gmail.com  
 - 💬 **Telegram:** [@the-ict](https://t.me/the-ict)  
-- 🌍 **Portfolio:** *Coming Soon...*  
