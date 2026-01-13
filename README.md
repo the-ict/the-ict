@@ -42,9 +42,6 @@ Full stack developer with **1+ years** of experience building web applications. 
 **DevOps**
 - Docker / GitHub Actions
 
-**Game Dev**
-- Unity / C# / Blender
-
 </td>
 </tr>
 </table>
