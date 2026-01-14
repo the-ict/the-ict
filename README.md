@@ -16,7 +16,7 @@
 
 ## 👨‍💻 About
 
-Full stack developer with **1+ years** of experience building web applications. I specialize in React, Next.js, and Node.js. Currently focused on AI-integrated applications and learning system design.
+I specialize in React, Next.js, and Node.js. Currently focused on AI-integrated applications and learning system design.
 
 ## 🛠 Tech Stack
 
